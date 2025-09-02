@@ -7,46 +7,46 @@ Quantifi Sogang의 **Quantitative Asset Management** 커리큘럼 자료집입�
 
 ### 📌 Curriculum Overview
 
-1. Asset Management Basic
+1. **Asset Management Basic**
    - Understanding Asset Management
    - Understanding ETF
    - Characteristic of Financial Data
-2. Financials, GICS Sectors
+2. **Financials, GICS Sectors**
    - Earnings, Book Value, Cash Flows, Price Ratios
    - GICS Sector & Industry
-3. Factors
+3. **Factors**
    - Macro Factors & Events
    - Yield Curve
    - Factors and DAG Models
-4. Allocation I
+4. **Allocation I**
    - Screening & Asset Universe
    - Market Cap Allocation
    - Markowitz Optimization
-5. Allocation II
+5. **Allocation II**
    - Black & Litterman Optimization
    - Risk Parity Allocation
-6. Allocation III
+6. **Allocation III**
    - Hierarchical Risk Parity Allocation
    - Nested Cluster Optimization
-7. Backtest I
+7. **Backtest I**
    - Historical Simulation
    - Cost & Slippage
-8. Backtest II
+8. **Backtest II**
    - Backtest Statistics
    - Attribution Analysis
-9. Risk Management
+9. **Risk Management**
    - Stress test
    - Synthetic data simulation
    - Risk Metric
-10. Strategy
-   - Meta Labeling
-   - Technical Indicator
-11. Forecast
-   - Linear Based Prediction
-   - Deep Learning Based Prediction
-12. Management Governance
-   - Pipeline
-   - Management Compliance
+10. **Strategy**
+    - Meta Labeling
+    - Technical Indicator
+11. **Forecast**
+    - Linear Based Prediction
+    - Deep Learning Based Prediction
+12. **Management Governance**
+    - Pipeline
+    - Management Compliance
 ---
 
 ### 🛠 Requirements
