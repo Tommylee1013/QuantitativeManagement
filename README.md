@@ -9,7 +9,7 @@ Quantifi Sogang의 **Quantitative Asset Management** 커리큘럼 자료집입�
 
 1. **Asset Management Basic**
    - Understanding Asset Management
-   - Understanding ETF
+   - Product Structures
    - Characteristic of Financial Data
 2. **Financials, GICS Sectors**
    - Earnings, Book Value, Cash Flows, Price Ratios
